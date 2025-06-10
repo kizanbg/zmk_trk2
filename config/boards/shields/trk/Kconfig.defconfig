@@ -1,0 +1,4 @@
+if TRK
+config ZMK_KEYBOARD_NAME
+    default "TRKeyboards"
+endif

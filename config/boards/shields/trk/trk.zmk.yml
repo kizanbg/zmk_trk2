@@ -1,0 +1,10 @@
+file_format: "1"
+id: trk
+name: Trk
+type: shield
+url: https://www.trkeyboards.com/
+requires: [nice_nano_v2]
+features:
+  - bt
+  - keys
+  - pointing
