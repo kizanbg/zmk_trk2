@@ -1,2 +1,2 @@
 config TRK
-    def_bool $(shields_list_contains,orasnica)
+    def_bool $(shields_list_contains,trk)
