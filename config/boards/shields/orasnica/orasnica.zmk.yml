@@ -1,6 +1,6 @@
 file_format: "1"
 id: trk
-name: Trk
+name: Trk Orasnica
 type: shield
 url: https://www.trkeyboards.com/
 requires: [nice_nano_v2]
